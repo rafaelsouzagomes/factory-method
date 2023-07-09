@@ -1,0 +1,2 @@
+# factory-method
+Factory method
