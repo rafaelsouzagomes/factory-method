@@ -1,2 +1,3 @@
 # Factory Method
-exemple of design patterns
+testing design patterns 
+ 
