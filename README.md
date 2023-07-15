@@ -1,2 +1,2 @@
 # Factory Method
-design patterns 
+exemple of design patterns
