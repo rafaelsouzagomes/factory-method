@@ -1,2 +1,2 @@
-# factory-method
-Factory method
+# Factory Method
+design patterns 
